@@ -1,23 +1,26 @@
-  {
-	  "name": "com.nethereum.unity.walletconnect",
-	  "displayName": "Nethereum.WalletConnect",
-	  "version": "4.19.2",
-	  "unity": "2021.3",
-	  "description": "Nethereum walletconnect runtime integration dlls, please check Nethereum releases for more information, https://github.com/Nethereum/Nethereum/releases, example can be found at https://github.com/Nethereum/Unity3dSampleTemplate",
-	  "changelogUrl": "https://github.com/Nethereum/Nethereum/releases",
-	  "author": {
-		  "name": "Juan Blanco",
-		  "url": "nethereum.com"
-	  },
-	  "license": "MIT",
-	  "licensesUrl": "https://github.com/Nethereum/Nethereum.Unity/blob/main/LICENSE.md",
-	  "keywords": [
-		  "unity", "nethereum", "ethereum", "walletconnect"
-	  ],
-	  "category": "Unity",
-	  "type": "library"
-	  "dependencies": {
-	    "com.nethereum.unity": "4.19.2",
-	    "com.walletconnect.core": "3.0.6"
-         },
-  }
+{
+    "name": "com.nethereum.unity.walletconnect",
+    "displayName": "Nethereum.WalletConnect",
+    "version": "4.19.3",
+    "unity": "2021.3",
+    "description": "Nethereum walletconnect runtime integration dlls, please check Nethereum releases for more information, https://github.com/Nethereum/Nethereum/releases, example can be found at https://github.com/Nethereum/Unity3dSampleTemplate",
+    "changelogUrl": "https://github.com/Nethereum/Nethereum/releases",
+    "author": {
+        "name": "Juan Blanco",
+        "url": "nethereum.com"
+    },
+    "license": "MIT",
+    "licensesUrl": "https://github.com/Nethereum/Nethereum.Unity/blob/main/LICENSE.md",
+    "keywords": [
+        "unity",
+        "nethereum",
+        "ethereum",
+        "walletconnect"
+    ],
+    "category": "Unity",
+    "type": "library",
+    "dependencies": {
+        "com.nethereum.unity": "4.19.2",
+        "com.walletconnect.core": "3.0.6"
+    }
+}
