@@ -16,4 +16,8 @@
 	  ],
 	  "category": "Unity",
 	  "type": "library"
+	  "dependencies": {
+	    "com.nethereum.unity": "4.19.1",
+	    "com.walletconnect.core": "3.0.6"
+         },
   }
