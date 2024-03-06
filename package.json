@@ -1,7 +1,7 @@
   {
 	  "name": "com.nethereum.unity.walletconnect",
 	  "displayName": "Nethereum.WalletConnect",
-	  "version": "4.19.1",
+	  "version": "4.19.2",
 	  "unity": "2021.3",
 	  "description": "Nethereum walletconnect runtime integration dlls, please check Nethereum releases for more information, https://github.com/Nethereum/Nethereum/releases, example can be found at https://github.com/Nethereum/Unity3dSampleTemplate",
 	  "changelogUrl": "https://github.com/Nethereum/Nethereum/releases",
@@ -17,7 +17,7 @@
 	  "category": "Unity",
 	  "type": "library"
 	  "dependencies": {
-	    "com.nethereum.unity": "4.19.1",
+	    "com.nethereum.unity": "4.19.2",
 	    "com.walletconnect.core": "3.0.6"
          },
   }
