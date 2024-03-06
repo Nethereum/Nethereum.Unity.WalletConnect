@@ -1,0 +1,14 @@
+{
+    "name": "Nethereum.Unity.WalletConnect",
+    "rootNamespace": "Nethereum.WalletConnect",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
