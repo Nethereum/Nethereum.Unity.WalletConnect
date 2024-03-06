@@ -1,6 +1,6 @@
   {
 	  "name": "com.nethereum.unity.walletconnect",
-	  "displayName": "Nethereum",
+	  "displayName": "Nethereum.WalletConnect",
 	  "version": "4.19.1",
 	  "unity": "2018.1",
 	  "description": "Nethereum walletconnect runtime integration dlls, please check Nethereum releases for more information, https://github.com/Nethereum/Nethereum/releases, example can be found at https://github.com/Nethereum/Unity3dSampleTemplate",
